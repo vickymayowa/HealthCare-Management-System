@@ -19,7 +19,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
             alt="patient"
             className="mb-12 h-10 w-fit"
           /> */}
-          <section className="mb-10 mt-15 space-y-4">
+          <section className="mb-10 space-y-4">
             <h1 className="header">Health Pulse</h1>
           </section>
 
